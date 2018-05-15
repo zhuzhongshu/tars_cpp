@@ -1,0 +1,1 @@
+/usr/bin/c++   -g -O2 -Wall -Wno-deprecated  -rdynamic CMakeFiles/tars2python.dir/main.cpp.o CMakeFiles/tars2python.dir/tars2python.cpp.o  -o tars2python ../../util/lib/libtarsutil.a ../lib/libtarsparse.a ../../util/lib/libtarsutil.a 

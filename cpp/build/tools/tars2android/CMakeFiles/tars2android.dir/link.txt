@@ -1,0 +1,1 @@
+/usr/bin/c++   -g -O2 -Wall -Wno-deprecated  -rdynamic CMakeFiles/tars2android.dir/interface_analysis.cpp.o CMakeFiles/tars2android.dir/main.cpp.o CMakeFiles/tars2android.dir/tars2android.cpp.o CMakeFiles/tars2android.dir/tars_filter.cpp.o  -o tars2android ../../util/lib/libtarsutil.a ../lib/libtarsparse.a ../../util/lib/libtarsutil.a 

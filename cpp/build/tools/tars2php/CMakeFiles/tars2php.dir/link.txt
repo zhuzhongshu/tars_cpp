@@ -1,0 +1,1 @@
+/usr/bin/c++   -g -O2 -Wall -Wno-deprecated  -rdynamic CMakeFiles/tars2php.dir/main.cpp.o CMakeFiles/tars2php.dir/tars2php.cpp.o  -o tars2php ../../util/lib/libtarsutil.a ../lib/libtarsparse.a ../../util/lib/libtarsutil.a 

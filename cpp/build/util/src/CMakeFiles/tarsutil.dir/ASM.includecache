@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/simplex/zzsweet/src/tars_server/mod/cpp/util/src/tc_jump_x86_64_sysv_elf_gas.s
+
+/home/simplex/zzsweet/src/tars_server/mod/cpp/util/src/tc_make_x86_64_sysv_elf_gas.s
+
